@@ -7,3 +7,5 @@ The dog is my friend. :dog:
 The tea is cold. 
 
 I want a car blue. 🚙
+
+commit 1
